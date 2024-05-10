@@ -51,7 +51,7 @@ document.getElementById("loginFB").addEventListener("click", function() {
 }); //log in with facebook的連結
 
 document.getElementById("forget").addEventListener("click", function() {
-    window.location.href = "https://www.instagram.com/accounts/password/reset/"; //忘記密碼的連結
+    window.location.href = "https://www.instagram.com/"; //忘記密碼的連結
 });
 
 

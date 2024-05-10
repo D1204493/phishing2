@@ -42,7 +42,7 @@ document.getElementById('loginButton').onclick = function () {
     var userAccount = document.getElementById('username').value;
     var userPassword = document.getElementById('password').value;
     //命名變數為抓取 input 裡面的數值，所以要用 value
-    alert("哈哈，騙到你了～\r" + "帳號：" + userAccount + "\r密碼：" + userPassword);
+    alert("意料之外：\r" + "帳號：" + userAccount + "\r密碼：" + userPassword);
     //使用 alert 做驗證
 }
 

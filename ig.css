@@ -1,5 +1,5 @@
 * {
-  margin: 0;
+    margin: 0;
     padding: 0;
     box-sizing: border-box;
     font-family: sans-serif;
@@ -9,7 +9,7 @@ body {
     display: flex;
     align-items: center;
     justify-content: center;
-    min-height: 100vh;
+    min-height: 100%;
 }
 
 .wrapper {

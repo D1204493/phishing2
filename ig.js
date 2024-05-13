@@ -36,6 +36,8 @@ document.addEventListener("DOMContentLoaded",() => {
     });
 
 });
+// 以上是讓密碼show出來或隱藏的Javascript
+
 
 document.getElementById('loginButton').onclick = function () {
     //button 使用getElementById (後面不用加點，直接套 id 名稱) 加上一個 onclick 事件，並執行 function 內容
